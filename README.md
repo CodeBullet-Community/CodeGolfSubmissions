@@ -22,18 +22,18 @@
     **-** Any Language\
 **6. You will be judged based on file size**\
 **7. The names of the winners will be posted on #cg**-**winners**\
-**8. Funny solutions are encouraged, if a particularly interesting submission is sent to a moderator it may be featured alongside the winners. **\
-**9. By default, only standard libraries are allowed. Exceptions may be created for certain challenges. **\
-**10. For a submission to classify for the Python category it must: **\
+**8. Funny solutions are encouraged, if a particularly interesting submission is sent to a moderator it may be featured alongside the winners.**\
+**9. By default, only standard libraries are allowed. Exceptions may be created for certain challenges.**\
+**10. For a submission to classify for the Python category it must:**\
     **a.** Run in Python 3.8\
     **b.** Not use ';' to concatenate lines unless necessary\
     **c.** Not use exec() unless necessary\
     **d.** Not mix tabs and spaces for tabulation\
-**11. For a submission to classify for the JavaScript category it must: **\
+**11. For a submission to classify for the JavaScript category it must:**\
     **a.** Run in JavaScript ES10\
-**12. For a submission to classify for the C++/C category it must: **\
+**12. For a submission to classify for the C++/C category it must:**\
     **a.** Compile with the latest version of gcc or g++\
-**13. For a submission to classify for the Any Language category it must: **\
+**13. For a submission to classify for the Any Language category it must:**\
     **a.** Run/Compile in the latest version of any language EXCEPT for "golfing" languages\
 *Note:* \
     - You are not required to use a specifc version of a language, however your code must be compatible with the listed version\
